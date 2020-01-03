@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "joohee",
+    "password": "victoria",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "joohee",
+    "password": "victoria",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "joohee",
+    "password": "victoria",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "operatorsAliases": false
+  }
+}
